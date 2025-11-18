@@ -1,9 +1,9 @@
 PERF :
-prmière img carousel trop grosse (taille du fichier)
-reduire le css non utilisé
-reduire le js non utilisé
-passer les images en webp ou AVIF
-reduire taille fichier images
+img carousel trop grosse (taille du fichier)*
+reduire le css non utilisé /
+reduire le js non utilisé /
+passer les images en webp ou AVIF *
+reduire taille fichier images *
 
 ACCESS :
 images ALT manquantes *
@@ -11,7 +11,7 @@ html pas de title *
 html pas de lang *
 pas de label dans le form *
 pas de précision sur le link *
-mauvais contraste de couleur sur le span filtres
+mauvais contraste de couleur sur le span filtres *
 balise <h> mal organisés *
 
 SEO : 
